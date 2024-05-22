@@ -14,7 +14,7 @@ applications:
     destinations: >
       [
         {"name":"emoji-dest",
-         "url":"https://emojicf.cfapps.eu10.hana.ondemand.com",
+         "url":"https://emojicf.cfapps.us10-001.hana.ondemand.com",
          "forwardAuthToken": true}
       ]
   services:
